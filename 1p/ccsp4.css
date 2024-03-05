@@ -1,0 +1,61 @@
+h1{
+    color: blue;
+    background-color: aqua;
+    text-align: center;
+    text-transform: uppercase;
+}
+.areaBonita {
+    border: 1px;
+    border-radius: 10%;
+    background-color: #bbc1c7 ;
+    color: #191e1f;
+    height: 150px;
+    width: 150px;
+
+}
+.label1 {
+    padding-right: 10px;
+    font-size: 20px;
+    color: aqua;
+
+    input{
+        font-size: 20px;
+        color: rgb(255, 230, 0);
+        background-color: rgb(255, 230, 0);
+    
+}
+}
+.label2{
+    padding-right: 20px;
+    font-size: x-large;
+
+    input{
+        font-size: 20px;
+        color: rgb(255, 230, 0);
+        background-color: cyan;
+    }
+}
+.label3{
+    font-size: 20px;
+    color: blue;
+
+    input{
+        padding-right: 20px;
+        font: caption;
+        font-size: 20px;
+        color: #191e1f;
+        background-color: aqua;
+    }
+}
+.label4{
+    padding-right: 20px;
+    font: caption;
+    font-size: 20px;
+    color: black;
+
+    input{
+        font-size: 20px;
+        color: black;
+        background-color: aqua;
+    }
+}
