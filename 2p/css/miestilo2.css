@@ -1,0 +1,37 @@
+.nav{
+    background-color: black;
+    width: px;
+    justify-content: left;
+
+}
+.nav ul{
+    list-style-type: none;
+
+    margin: 10px;
+    padding: 0%;
+    color: antiquewhite;
+
+}
+.cont{
+    display: flex;
+
+}
+.fun{
+    background-color: azure;
+}
+.nav2 ul {
+    list-style-type: none;
+    display: flex;
+
+
+}
+.set{
+    background-color: blanchedalmond;
+}
+.nav2 ul li{
+    padding-right: 20px;
+} 
+.setting{
+    display: flex;
+    
+}
